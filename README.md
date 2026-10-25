@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Diego Nicolás Pereira 👋
 
-<!--
-**diegonicolaspereira-ai/diegonicolaspereira-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Automation Technical Lead | Intelligent Automation & Digital Transformation
 
-Here are some ideas to get you started:
+I focus on connecting technology, automation, and artificial intelligence to solve business challenges and drive digital transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional interests combine hands-on technical implementation, solution architecture, process optimization, and technical leadership.
+
+## 🚀 Areas of Focus
+
+- **Intelligent Automation:** Business process automation, workflow orchestration, and systems integration.
+- **Artificial Intelligence:** AI agents, LLM-based solutions, and intelligent workflows.
+- **Solution Architecture:** Designing secure, scalable, and maintainable technology solutions.
+- **Technical Leadership:** Technical decision-making, project coordination, and cross-functional collaboration.
+- **Digital Transformation:** Identifying opportunities to improve operational efficiency through technology.
+
+## 💼 Professional Approach
+
+I believe successful automation goes beyond implementing tools. It requires understanding business needs, designing reliable solutions, and measuring their impact.
+
+My approach focuses on bridging the gap between business strategy and technical execution.
+
+## 📂 Portfolio & Projects
+
+I'm building a portfolio of practical AI and automation solutions, documenting:
+
+- Business challenges and solution objectives
+- System architecture and technology choices
+- Technical implementation and integrations
+- Reliability, security, and operational considerations
+- Measurable results and lessons learned
+
+## 🤝 Let's Connect
+
+Interested in collaborating and exchanging ideas about AI, automation, technical leadership, and digital transformation.
