@@ -1,4 +1,6 @@
-# Hi, I'm Diego Nicolás Pereira 👋
+[Leer en Español](README.es.md)
+
+# Hi, I'm Diego Pereira 👋
 
 ### AI & Automation Technical Lead | Intelligent Automation & Digital Transformation
 
