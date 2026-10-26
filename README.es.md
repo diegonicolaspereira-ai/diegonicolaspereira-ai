@@ -2,7 +2,7 @@
 
 # Hola, soy Diego Pereira 👋
 
-### AI & Automation Technical Lead | Automatización Inteligente y Transformación Digital
+### Líder Técnico en Automatización e IA | Automatización Inteligente y Transformación Digital
 
 Me enfoco en conectar tecnología, automatización e inteligencia artificial para resolver desafíos empresariales e impulsar la transformación digital.
 
